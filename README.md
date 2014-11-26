@@ -11,5 +11,6 @@ run via
 
 `$ iiid`
 
-`IN OUR HEARTS` means "No"
-`HELL YEAH` means "Yes"
+`IN OUR HEARTS` means No
+
+`HELL YEAH` means Yes
