@@ -27,7 +27,7 @@
   "preferGlobal": true,
   "bin": {
       "iiid" : "index.js"
-    }
+  },
   "dependencies": {
     "commander": "^2.5.0"
   }

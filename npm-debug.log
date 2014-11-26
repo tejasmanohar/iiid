@@ -1,0 +1,24 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/y3ms5f/.nvm/v0.10.30/bin/node',
+1 verbose cli   '/Users/y3ms5f/.nvm/v0.10.30/bin/npm',
+1 verbose cli   'publish',
+1 verbose cli   './' ]
+2 info using npm@1.4.21
+3 info using node@v0.10.30
+4 verbose publish [ './' ]
+5 error Failed to parse json
+5 error Unexpected string
+6 error File: /Volumes/Storage/Repos/Authored/is-it-independence-day/package.json
+7 error Failed to parse package.json data.
+7 error package.json must be actual JSON, not just JavaScript.
+7 error
+7 error This is not a bug in npm.
+7 error Tell the package author to fix their package.json file. JSON.parse
+8 error System Darwin 13.2.0
+9 error command "/Users/y3ms5f/.nvm/v0.10.30/bin/node" "/Users/y3ms5f/.nvm/v0.10.30/bin/npm" "publish" "./"
+10 error cwd /Volumes/Storage/Repos/Authored/is-it-independence-day
+11 error node -v v0.10.30
+12 error npm -v 1.4.21
+13 error file /Volumes/Storage/Repos/Authored/is-it-independence-day/package.json
+14 error code EJSONPARSE
+15 verbose exit [ 1, true ]
