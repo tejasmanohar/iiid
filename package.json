@@ -25,6 +25,9 @@
   },
   "homepage": "https://github.com/tejas-manohar/is-it-independence-day",
   "preferGlobal": true,
+  "bin": {
+      "iiid" : "index.js"
+    }
   "dependencies": {
     "commander": "^2.5.0"
   }
