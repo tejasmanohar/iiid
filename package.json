@@ -1,6 +1,6 @@
 {
   "name": "is-it-independence-day",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli to tell you if it's independence day",
   "main": "index.js",
   "scripts": {

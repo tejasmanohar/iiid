@@ -59,37 +59,37 @@
 28 silly publish   dependencies: { commander: '^2.5.0' },
 28 silly publish   readme: 'is-it-independence-day\n======================\n\ncli to tell you if it\'s independence day\n\n`\n$ npm install -g is-it-independence-day\n\n$ iiid\n`\n\n`IN OUR HEARTS` means "No"\n`HELL YEAH` means "Yes"',
 28 silly publish   readmeFilename: 'README.md',
-28 silly publish   gitHead: '27d614005385a348bd8c1d5f8433c9425b214d8f',
+28 silly publish   gitHead: '189c0e2bb5ea204ff68f7c780f2c069c4b74ad71',
 28 silly publish   _id: 'is-it-independence-day@1.0.0',
-28 silly publish   _shasum: '4b115ef7c9d88add632363a70564ab0a5f49f0cc',
+28 silly publish   _shasum: '034e6f9895b7e90336d627afe57206ac0e755135',
 28 silly publish   _from: './' }
 29 verbose request where is /is-it-independence-day
 30 verbose request registry https://registry.npmjs.org/
-31 verbose request id 71f372fa2c0edc38
+31 verbose request id ee80d2693bc4f5d4
 32 verbose url raw /is-it-independence-day
 33 verbose url resolving [ 'https://registry.npmjs.org/', './is-it-independence-day' ]
 34 verbose url resolved https://registry.npmjs.org/is-it-independence-day
 35 verbose request where is https://registry.npmjs.org/is-it-independence-day
-36 info trying registry request attempt 1 at 02:01:21
+36 info trying registry request attempt 1 at 02:01:45
 37 http PUT https://registry.npmjs.org/is-it-independence-day
 38 http 403 https://registry.npmjs.org/is-it-independence-day
-39 verbose headers { date: 'Wed, 26 Nov 2014 08:01:22 GMT',
+39 verbose headers { date: 'Wed, 26 Nov 2014 08:01:45 GMT',
 39 verbose headers   server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
 39 verbose headers   'content-type': 'application/json',
 39 verbose headers   'cache-control': 'max-age=60',
 39 verbose headers   'content-length': '2846',
 39 verbose headers   'accept-ranges': 'bytes',
 39 verbose headers   via: '1.1 varnish',
-39 verbose headers   'x-served-by': 'cache-atl6222-ATL',
+39 verbose headers   'x-served-by': 'cache-atl6232-ATL',
 39 verbose headers   'x-cache': 'MISS',
 39 verbose headers   'x-cache-hits': '0',
-39 verbose headers   'x-timer': 'S1416988881.749716,VS0,VE290',
+39 verbose headers   'x-timer': 'S1416988905.321475,VS0,VE289',
 39 verbose headers   'keep-alive': 'timeout=10, max=50',
 39 verbose headers   connection: 'Keep-Alive' }
 40 error publish Failed PUT 403
 41 error Error: forbidden cannot modify pre-existing version: 1.0.0
 41 error old={"name":"is-it-independence-day","version":"1.0.0","description":"cli to tell you if it's independence day","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"repository":{"type":"git","url":"https://github.com/tejas-manohar/is-it-independence-day.git"},"keywords":["independence","day","cli","is","it","yet"],"author":{"name":"Tejas Manohar"},"license":"MIT","bugs":{"url":"https://github.com/tejas-manohar/is-it-independence-day/issues"},"homepage":"https://github.com/tejas-manohar/is-it-independence-day","preferGlobal":true,"dependencies":{"commander":"^2.5.0"},"gitHead":"6c51e015d42fa5d48d483af9ab44529eae9bd5a3","_id":"is-it-independence-day@1.0.0","_shasum":"99ebabc005c5046c6041bd096a7d773d62eae2ba","_from":"./","_npmVersion":"1.4.21","_npmUser":{"name":"tejas-manohar","email":"me@tejasmanohar.com"},"maintainers":[{"name":"tejas-manohar","email":"me@tejasmanohar.com"}],"dist":{"shasum":"99ebabc005c5046c6041bd096a7d773d62eae2ba","tarball":"http://registry.npmjs.org/is-it-independence-day/-/is-it-independence-day-1.0.0.tgz"}}
-41 error new={"name":"is-it-independence-day","version":"1.0.0","description":"cli to tell you if it's independence day","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"repository":{"type":"git","url":"https://github.com/tejas-manohar/is-it-independence-day.git"},"keywords":["independence","day","cli","is","it","yet"],"author":{"name":"Tejas Manohar"},"license":"MIT","bugs":{"url":"https://github.com/tejas-manohar/is-it-independence-day/issues"},"homepage":"https://github.com/tejas-manohar/is-it-independence-day","preferGlobal":true,"bin":{"iiid":"index.js"},"dependencies":{"commander":"^2.5.0"},"readme":"is-it-independence-day\u000a======================\u000a\u000acli to tell you if it's independence day\u000a\u000a`\u000a$ npm install -g is-it-independence-day\u000a\u000a$ iiid\u000a`\u000a\u000a`IN OUR HEARTS` means \"No\"\u000a`HELL YEAH` means \"Yes\"","readmeFilename":"README.md","gitHead":"27d614005385a348bd8c1d5f8433c9425b214d8f","_id":"is-it-independence-day@1.0.0","_shasum":"4b115ef7c9d88add632363a70564ab0a5f49f0cc","_from":"./","_npmVersion":"1.4.21","_npmUser":{"name":"tejas-manohar","email":"me@tejasmanohar.com"},"maintainers":[{"name":"tejas-manohar","email":"me@tejasmanohar.com"}],"dist":{"shasum":"4b115ef7c9d88add632363a70564ab0a5f49f0cc","tarball":"http://registry.npmjs.org/is-it-independence-day/-/is-it-independence-day-1.0.0.tgz"}}: is-it-independence-day
+41 error new={"name":"is-it-independence-day","version":"1.0.0","description":"cli to tell you if it's independence day","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"repository":{"type":"git","url":"https://github.com/tejas-manohar/is-it-independence-day.git"},"keywords":["independence","day","cli","is","it","yet"],"author":{"name":"Tejas Manohar"},"license":"MIT","bugs":{"url":"https://github.com/tejas-manohar/is-it-independence-day/issues"},"homepage":"https://github.com/tejas-manohar/is-it-independence-day","preferGlobal":true,"bin":{"iiid":"index.js"},"dependencies":{"commander":"^2.5.0"},"readme":"is-it-independence-day\u000a======================\u000a\u000acli to tell you if it's independence day\u000a\u000a`\u000a$ npm install -g is-it-independence-day\u000a\u000a$ iiid\u000a`\u000a\u000a`IN OUR HEARTS` means \"No\"\u000a`HELL YEAH` means \"Yes\"","readmeFilename":"README.md","gitHead":"189c0e2bb5ea204ff68f7c780f2c069c4b74ad71","_id":"is-it-independence-day@1.0.0","_shasum":"034e6f9895b7e90336d627afe57206ac0e755135","_from":"./","_npmVersion":"1.4.21","_npmUser":{"name":"tejas-manohar","email":"me@tejasmanohar.com"},"maintainers":[{"name":"tejas-manohar","email":"me@tejasmanohar.com"}],"dist":{"shasum":"034e6f9895b7e90336d627afe57206ac0e755135","tarball":"http://registry.npmjs.org/is-it-independence-day/-/is-it-independence-day-1.0.0.tgz"}}: is-it-independence-day
 41 error     at RegClient.<anonymous> (/Users/y3ms5f/.nvm/v0.10.30/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:300:14)
 41 error     at Request._callback (/Users/y3ms5f/.nvm/v0.10.30/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:238:65)
 41 error     at Request.self.callback (/Users/y3ms5f/.nvm/v0.10.30/lib/node_modules/npm/node_modules/request/request.js:123:22)
