@@ -5,7 +5,7 @@ cli to tell you if it's independence day
 
 install via
 
-`$ npm install -g is-it-independence-day`
+`$ npm install -g iiid`
 
 run via
 

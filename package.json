@@ -1,5 +1,5 @@
 {
-  "name": "is-it-independence-day",
+  "name": "iiid",
   "version": "1.0.2",
   "description": "cli to tell you if it's independence day",
   "main": "iiid.js",
@@ -16,14 +16,15 @@
     "cli",
     "is",
     "it",
-    "yet"
+    "yet",
+    "iiid"
   ],
   "author": "Tejas Manohar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tejas-manohar/is-it-independence-day/issues"
+    "url": "https://github.com/tejas-manohar/iiid/issues"
   },
-  "homepage": "https://github.com/tejas-manohar/is-it-independence-day",
+  "homepage": "https://github.com/tejas-manohar/iiid",
   "preferGlobal": true,
   "bin": {
       "iiid" : "./iiid.js"
