@@ -1,8 +1,8 @@
 {
   "name": "is-it-independence-day",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cli to tell you if it's independence day",
-  "main": "index.js",
+  "main": "iiid.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,7 +26,7 @@
   "homepage": "https://github.com/tejas-manohar/is-it-independence-day",
   "preferGlobal": true,
   "bin": {
-      "iiid" : "index.js"
+      "iiid" : "./iiid.js"
   },
   "dependencies": {
     "commander": "^2.5.0"
