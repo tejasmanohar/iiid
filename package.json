@@ -24,5 +24,8 @@
     "url": "https://github.com/tejas-manohar/is-it-independence-day/issues"
   },
   "homepage": "https://github.com/tejas-manohar/is-it-independence-day",
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "commander": "^2.5.0"
+  }
 }

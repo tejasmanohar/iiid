@@ -1,20 +1,16 @@
 #!/usr/bin/env node
 
-/**
- * Module dependencies.
- */
-
 var program = require('commander');
 
 program
   .version('1.0.0')
-  .command('rmdir <dir> [otherDirs...]')
-  .action(function (dir, otherDirs) {
-    console.log('rmdir %s', dir);
-    if (otherDirs) {
-      otherDirs.forEach(function (oDir) {
-        console.log('rmdir %s', oDir);
-      });
+  .command('iiid')
+  .action(function () {
+    var d = new Date();
+    if(d.getMonth() === 7 && d.getDate() === 4) {
+      console.log('FK YEAH');
+    } else {
+      console.log('IN OUR HEARTS');
     }
   });
 
