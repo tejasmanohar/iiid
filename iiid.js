@@ -6,7 +6,6 @@ program
   .version('1.0.0')
   .command('iiid')
   .action(function () {
-    console.log('lol')
     var d = new Date();
     if(d.getMonth() === 7 && d.getDate() === 4) {
       console.log('HELL YEAH');
