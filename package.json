@@ -1,0 +1,28 @@
+{
+  "name": "is-it-independence-day",
+  "version": "1.0.0",
+  "description": "cli to tell you if it's independence day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tejas-manohar/is-it-independence-day.git"
+  },
+  "keywords": [
+    "independence",
+    "day",
+    "cli",
+    "is",
+    "it",
+    "yet"
+  ],
+  "author": "Tejas Manohar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tejas-manohar/is-it-independence-day/issues"
+  },
+  "homepage": "https://github.com/tejas-manohar/is-it-independence-day",
+  "preferGlobal": true
+}
