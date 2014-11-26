@@ -1,6 +1,6 @@
 {
   "name": "iiid",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "cli to tell you if it's independence day",
   "main": "iiid.js",
   "scripts": {
@@ -30,6 +30,6 @@
       "iiid" : "./iiid.js"
   },
   "dependencies": {
-    "commander": "^2.5.0"
+    "commander": "2.5.0"
   }
 }

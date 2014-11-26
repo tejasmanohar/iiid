@@ -3,7 +3,7 @@
 var program = require('commander');
 
 program
-  .version('1.0.2')
+  .version('1.0.0')
   .command('iiid')
   .action(function () {
     console.log('lol')
