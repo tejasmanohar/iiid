@@ -8,7 +8,7 @@ program
   .action(function () {
     var d = new Date();
     if(d.getMonth() === 7 && d.getDate() === 4) {
-      console.log('FK YEAH');
+      console.log('HELL YEAH');
     } else {
       console.log('IN OUR HEARTS');
     }
