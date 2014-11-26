@@ -3,7 +3,7 @@
 var program = require('commander');
 
 program
-  .version('1.0.2')
+  .version('1.0.3')
   .command('iiid <>')
   .action(function () {
     var d = new Date();
